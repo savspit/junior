@@ -1,3 +1,3 @@
 # git_test
-Git test
+Junior
 Study on http://job4j.ru
