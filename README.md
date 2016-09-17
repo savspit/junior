@@ -1,3 +1,3 @@
-# git_test
+# junior
 Junior
 Study on http://job4j.ru
