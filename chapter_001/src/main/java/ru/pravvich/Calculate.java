@@ -49,10 +49,8 @@ public class Calculate {
 	if (second != 0) {
 	this.resoult = first / second;
 	} else {
-		System.out.println("?елить на ноль нельз¤!");
+		System.out.println("Делить на ноль нельз¤!");
 	}
-
-	this.resoult = first / second;
 	
 	}
 
