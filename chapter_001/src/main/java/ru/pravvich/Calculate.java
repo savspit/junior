@@ -31,7 +31,7 @@ public class Calculate {
 
 
         /**
-        *  Division operation.
+        *  Multiplication operation.
 	*/ @param first - first argument, second - second argument
 
 	public void mult(double first, double second) {
